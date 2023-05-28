@@ -18,7 +18,7 @@ img {
   max-width: 100%;
 }
 
-div{
+.btn-container{
   display: flex;
   justify-content: center;
   margin-top: 250px;
